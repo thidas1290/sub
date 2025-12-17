@@ -1,0 +1,8 @@
+name = "sub"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "e18c2a8a511341c68bc561f417301ba2" }
+]
